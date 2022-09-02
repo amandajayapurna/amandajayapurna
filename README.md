@@ -6,4 +6,4 @@
 Hi! I'm Amanda.
 I'm a Lighting and Lookdev VFX Artist, recently graduated from the Savannah College of Art & Design.
 
-My goal is to create art that sparks awe! Growing up moving around different countries, I gained a huge admiration for the vibrancy of street cultures and now draw creative inspiration from this diversity of people around me. I like to highlight the little moments of joy quietly pocketed within everyday life.
+Recently I've been taking some online coding courses and have been keen on diving into Python, C++, USD and tool building in order to develop skills in my growing interest for Technical Direction for Lighting. The following repositories contain both classwork excercises as well as personal VFX projects in the works!
